@@ -1,0 +1,10 @@
+<mvc:View controllerName="com.myorg.myui5app.controller.MainView"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <MessagePage showHeader="false"
+            description="More content to come"
+            text="Stay tuned!"
+            icon="sap-icon://home" />
+    </Page>
+</mvc:View>
